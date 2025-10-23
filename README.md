@@ -67,6 +67,8 @@ Digite o nome do item para adicionar a lista: Leite
 
 O item foi adicionado!    
 
+---
+
 ## 🧑‍💻 Desenvolvido por
 
 **Regina Pompeo**  
